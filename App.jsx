@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import HomePage from "./pages/HomePage";
-import ProductDetailPage from "./pages/ProductDetailPage";
-import WishlistPage from "./pages/WishlistPage";
-import CartPage from "./pages/CartPage";
-import TransactionPage from "./pages/TransactionPage";
+import HomePage from "./HomePage";
+import ProductDetailPage from "./ProductDetailPage";
+import WishlistPage from "./WishlistPage";
+import CartPage from "./CartPage";
+import TransactionPage from "./TransactionPage";
 
 export default function App() {
   return (
